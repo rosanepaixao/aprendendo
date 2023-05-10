@@ -1,3 +1,2 @@
 rosane maravilha
-linda
-gata
+
